@@ -1,2 +1,1 @@
-# jenkins-training
-DevOps Jenkins training
+# jenkins-demo
